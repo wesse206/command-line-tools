@@ -1,4 +1,8 @@
 #! /bin/sh
 echo Starting the initiation
 
+echo Setting up update
+chmod +x update
+echo Setup sucessfull
+
 echo Initiation complete
